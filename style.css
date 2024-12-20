@@ -1,0 +1,22 @@
+div.container {
+    /* max-width: 800px; */
+    margin: auto;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    border: 2px, solid, black;
+    /* background-color: black; */
+}
+
+div.gridSquare {
+    width: 50px;
+    height: 50px;
+}
+
+/* .gridSquare:hover {
+    background-color: red;
+} */
+
+.gridSquare:hover {
+    background-color: black;
+}
